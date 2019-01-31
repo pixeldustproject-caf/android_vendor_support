@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.abc.support.colorpicker;
+package com.pixeldust.support.colorpicker;
 
 import android.app.AlertDialog;
 import android.app.NotificationManager;
@@ -30,7 +30,7 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
 
-import com.abc.support.R;
+import com.pixeldust.support.R;
 
 public class ColorPickerDialog extends AlertDialog implements ColorPickerView.OnColorChangedListener, View.OnClickListener {
 

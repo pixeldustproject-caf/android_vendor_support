@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abc.support.preferences;
+package com.pixeldust.support.preferences;
 
 import android.content.Context;
 import android.content.Intent;
@@ -37,7 +37,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.TreeSet;
 
-import com.abc.support.R;
+import com.pixeldust.support.R;
 
 public class PackageListAdapter extends BaseAdapter implements Runnable {
     private PackageManager mPm;

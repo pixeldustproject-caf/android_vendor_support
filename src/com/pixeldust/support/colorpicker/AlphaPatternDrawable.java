@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abc.support.colorpicker;
+package com.pixeldust.support.colorpicker;
 
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.Config;

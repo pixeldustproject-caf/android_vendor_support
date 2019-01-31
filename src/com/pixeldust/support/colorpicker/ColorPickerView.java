@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.abc.support.colorpicker;
+package com.pixeldust.support.colorpicker;
 
 import android.content.Context;
 import android.graphics.Canvas;

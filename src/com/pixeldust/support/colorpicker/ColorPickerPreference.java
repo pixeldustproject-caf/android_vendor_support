@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.abc.support.colorpicker;
+package com.pixeldust.support.colorpicker;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -44,7 +44,7 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
-import com.abc.support.R;
+import com.pixeldust.support.R;
 
 /**
  * A preference type that allows a user to choose a time

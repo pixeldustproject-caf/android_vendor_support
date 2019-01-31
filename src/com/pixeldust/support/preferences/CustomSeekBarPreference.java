@@ -14,7 +14,7 @@
  * limitations under the License
  */
 
-package com.abc.support.preferences;
+package com.pixeldust.support.preferences;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -26,7 +26,7 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 import android.support.v7.preference.*;
 
-import com.abc.support.R;
+import com.pixeldust.support.R;
 
 public class CustomSeekBarPreference extends Preference implements SeekBar.OnSeekBarChangeListener {
     private final String TAG = getClass().getName();
