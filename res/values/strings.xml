@@ -25,10 +25,6 @@
     <string name="hex_hint">#ff000000</string>
     <string name="set">Set</string>
     <string name="color_default">Default</string>
-    <string name="cancel">Cancel</string>
-
-
-    <string name="color_picker_simple_dialog_title">Select a led color</string>
 
     <!-- IconPack Preference -->
     <string name="default_iconpack_title">Default</string>
